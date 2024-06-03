@@ -1,27 +1,37 @@
-.main{
+.main {
   background-color: rgb(209, 248, 248);
+
 }
+
 .content:hover{
-  border: 2px solid rgb(120, 252, 120);
+  border: 3px solid rgb(106, 246, 106);
 }
-.content1 .content{
-  height: 500px;
+
+.content1 .content {
   cursor: pointer;
   background-color: white;
   padding-top: 5%;
+
 }
-.content1{
+
+.content1 {
   background-color: white;
+
 }
-.content2:hover{
-  border: 2px solid rgb(120, 252, 120);
+
+.content1 {
+  height: 400px;
+  padding: 40px;
+  margin: 10px;
 }
-.content3 .content2{
-  height: 550px;
-  cursor: pointer;
-  background-color: white;
-  padding-top: 5%;
+
+.icon {
+  list-style-type: none;
+  text-align: left;
+
+
 }
-.content2{
-  background-color: white;
+
+.poss {
+  position: relative;
 }
